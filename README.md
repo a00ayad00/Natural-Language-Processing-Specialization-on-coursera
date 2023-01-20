@@ -1,5 +1,7 @@
 # Natural-Language-Processing-Specialization-on-coursera
-
+<br><br><br>
+**You can see my certificates for this NLP Specialization from [here](https://drive.google.com/drive/folders/14Hs-69Myw8F7KH0mN82Cq0VjusLCzqVX?usp=share_link)**
+<br><br><br>
 # Course 1 (NLP with Classification and Vector Spaces)
 ## Week 1 (Sentiment Analysis with Logistic Regression)
 Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using a logistic regression!
@@ -87,5 +89,41 @@ Learn about how word embeddings carry the semantic meaning of words, which makes
 - Tokenization
 - Data generators
 <br><br><br><br>
-# Course 3
-**Sooooooooon...**
+# Course 3 (Natural Language Processing with Sequence Models)
+## Week 1 (Neural Networks for Sentiment Analysis)
+Learn about neural networks for deep learning, then build a sophisticated tweet classifier that places tweets into positive or negative sentiment categories, using a deep neural network.
+### Objectives
+- Feature extraction
+- Supervised machine learning
+- Binary classification
+- Text preprocessing
+- ReLU
+- Python classes
+- Trax
+- Neural networks
+## Week 2 (Recurrent Neural Networks for Language Models)
+Learn about the limitations of traditional language models and see how RNNs and GRUs use sequential data for text prediction. Then build your own next-word generator using a simple RNN on Shakespeare text data!
+### Objectives
+- N-grams
+- Gated recurrent units
+- Recurrent neural networks
+## Week 3 (LSTMs and Named Entity Recognition)
+Learn about how long short-term memory units (LSTMs) solve the vanishing gradient problem, and how Named Entity Recognition systems quickly extract important information from text. Then build your own Named Entity Recognition system using an LSTM and data from Kaggle!
+### Objectives
+- Vanishing gradients
+- Named entity recognition
+- LSTMs
+- Feature extraction
+- Part-of-speech tagging
+- Data generators
+## Week 4 (Siamese Networks)
+Learn about Siamese networks, a special type of neural network made of two identical networks that are eventually merged together, then build your own Siamese network that identifies question duplicates in a dataset from Quora.
+### Objectives
+- One shot learning
+- Triplet loss
+- Cosine similarity
+- Siamese networks
+- Data generators
+<br><br><br><br>
+# Course 4 (sooon)
+
